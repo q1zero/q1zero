@@ -9,6 +9,8 @@
 - [AutoVideo-Gen](https://github.com/q1zero/ai-)：热点、脚本、素材、配音与视频合成的个人演示项目。
 - [EnsoCode](https://github.com/q1zero/EnsoCode)：开源 Coding Agent 架构研究与社区参与，仓库为公开 Fork，保留原项目归属。
 
+- [AI 施工作业安全方案 Agent](https://github.com/q1zero/construction-safety-agent)：六阶段架构研究，附本次新增的可运行流程参考实现。
+
 ## 作品集与案例
 
 - [个人作品集仓库](https://github.com/q1zero/qiyilin-portfolio)：网站源码、配图、业务案例与简历，目前为私有仓库。
